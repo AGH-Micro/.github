@@ -14,7 +14,7 @@
 
 ## 👥 About us
 
-We are a **student reaserch circle**, passionate about:
+We are a **student reaserch club**, passionate about:
 
 - 📡 radio and microwave technology,   
 - 🖥️ telecomunication,  
