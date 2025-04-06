@@ -18,7 +18,7 @@ We are a **student reaserch club**, passionate about:
 
 - 📡 radio and microwave technology,   
 - 🖥️ telecomunication,  
-- ⚙️ dish antennas construction and electronics,  
+- ⚙️ antennas construction and electronics,  
 
 in search of new challenges, creating **ground breaking solutions**, conjoining the world od electromagnetic waves and intelligent data analysys. 🎯
 
@@ -26,5 +26,5 @@ in search of new challenges, creating **ground breaking solutions**, conjoining 
 
 - 📡 Electronics and RF,  
 - 💻 Software,  
-- 🔧 Dish antennas construction,  
+- 🔧 Antennas construction,  
 - 🖨️ 3-D prinnting. 
