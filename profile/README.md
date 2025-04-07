@@ -8,7 +8,7 @@
 - 💼 **LinkedIn:** [https://www.linkedin.com/company/agh-micro](https://www.linkedin.com/company/agh-micro)  
 - 📸 **Instagram / Facebook:** [wstaw link]  
 - 📧 **e-mail:** [aghmicro1@gmail.com](mailto:aghmicro1@gmail.com)  
-- 📍 **Address:** Pawilon D-6, al. Adama Mickiewicza 30, 30-055 Kraków  
+- 📍 **Address:** pavillon D-5, Czarnowiejska 78, 30-054 Kraków 
 
 
 
