@@ -18,13 +18,12 @@ We are a **student reaserch club**, passionate about:
 
 - 📡 radio and microwave technology,   
 - 🖥️ telecomunication,  
-- ⚙️ antennas construction and electronics,  
+- ⚙️ antennas construction,  
 
 in search of new challenges, creating **ground breaking solutions**, conjoining the world od electromagnetic waves and intelligent data analysys. 🎯
 
 ## ⚛️ Sphere of interests: 
 
-- 📡 Electronics and RF,  
+- 📡 High frequency,  
 - 💻 Software,  
-- 🔧 Antennas construction,  
 - 🖨️ 3-D prinnting. 
