@@ -1,4 +1,4 @@
-# 📡 SKN AGH Micro
+# 📡 KN AGH Micro
 
 ## Hey! 👋
 
